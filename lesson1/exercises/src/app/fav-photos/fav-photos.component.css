@@ -3,7 +3,11 @@ h3 {
 }
 
 img {
-
+   height: 400px;
+   width: 500px;
+   max-height: 400px;
+   margin: 5px;
+   display: block;
 }
 
 .photos {
