@@ -18,3 +18,7 @@ img {
 .crew {
     color: #3c79b8;
 }
+
+#addCrewBtn {
+    margin: 5px;
+}
