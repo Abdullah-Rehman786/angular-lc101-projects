@@ -1,9 +1,10 @@
 .movies {
     color: rosybrown;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 .movies h3{
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.75rem;
+    text-decoration: underline;
 }

@@ -1,15 +1,24 @@
 h3 {
    color: brown;
+   text-decoration: underline;
 }
 
 img {
-   height: 400px;
-   width: 500px;
-   max-height: 400px;
+   /* height: 150px;
+   width: 200px;
+   max-height: 200px; */
+   max-width: 200px;
    margin: 5px;
-   display: block;
+   /* size: 100%; */
 }
 
 .photos {
    text-align: center;
+   /* display: flex;
+   justify-content: center; */
+   border-left: 2px dashed black;
+   border-right: 2px dashed black;
+   padding: 0 20px 0 20px;
+
+
 }
